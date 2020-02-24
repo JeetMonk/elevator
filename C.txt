@@ -1,1 +1,0 @@
-{"name": "C", "current at floor": 0, "action": "idle", "moving to floor": null, "reuqested floors": []}
