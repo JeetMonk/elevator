@@ -1,0 +1,1 @@
+{"name": "A", "current at floor": 6, "action": "load and unload", "moving to floor": 6, "reuqested floors": [6]}
